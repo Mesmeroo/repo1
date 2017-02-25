@@ -5,6 +5,8 @@
 <head>
 </head>
 <body>
+<li>Drugi</li>
+<li> Trzeci </li>
 </body>
 
 </html>
